@@ -2,19 +2,27 @@
 
 **AI-Assisted Research Investigation** | March 16, 2026
 
+> **DISCLAIMER**: This is a hypothesis-generation exercise, NOT a validated predictive model.
+> Thresholds are derived from selective historical cases, not systematic data analysis.
+> Oscillator simulations prove mathematical consistency, not real-world validity.
+> See "Limitations" section for details.
+
 ---
 
 ## Quick Summary
 
 ```
-Inflation works as a probabilistic timer, not a crystal ball. Food inflation above 15-20 percent
-correlates with civil unrest 3-12 months later. General inflation above 30-40 percent precedes
-regime instability within 6-18 months. Hyperinflation (greater than 50 percent monthly) creates
-near-certain regime crisis within 3-12 months.
+HYPOTHESIS: Inflation MAY work as a probabilistic timer for socio-political events.
 
-Counter-examples (Turkey 80 percent+, Argentina chronic, Venezuela hyperinflation) are explained
-by the Allee Threshold effect - populations with high legitimacy reservoirs absorb inflation shocks
-that would topple weaker states.
+Observed in SELECTIVE historical cases:
+- Food inflation above 15-20 percent preceded unrest in Arab Spring, Sri Lanka
+- General inflation above 30-40 percent preceded instability in some cases
+- Hyperinflation preceded regime crisis in most cases
+
+BUT: Counter-examples exist (Turkey 80%+ stable, Argentina chronic, Venezuela survived).
+The "legitimacy reservoir" explanation is post-hoc and currently unfalsifiable.
+
+THIS IS NOT A VALIDATED PREDICTIVE MODEL.
 ```
 
 ---
@@ -82,15 +90,15 @@ The research team's skeptic raised fundamental challenges to dominant narratives
 
 The Ideologist agent generated five novel hypotheses by transferring patterns from unrelated domains. The Simulator validated these using oscillator dynamics:
 
-| Hypothesis | Source Domain | Simulator Status | Key Metric |
-|------------|---------------|------------------|------------|
-| **MEWS-Econ Composite** | Medicine (vital signs) | CONFIRMED | 346 percent improvement |
-| **Allee Threshold** | Ecology (population biology) | CONFIRMED | Sharp collapse boundary |
-| **Cascade Resonance** | Engineering (power grids) | CONFIRMED | Frequency effects |
-| **Immune Erosion** | Immunology (T-cell exhaustion) | CONFIRMED | 24x hyper-response |
+| Hypothesis | Source Domain | Status | Key Metric |
+|------------|---------------|--------|------------|
+| **MEWS-Econ Composite** | Medicine (vital signs) | HYPOTHESIS | 346 percent improvement (simulation) |
+| **Allee Threshold** | Ecology (population biology) | HYPOTHESIS | Sharp collapse boundary (simulation) |
+| **Cascade Resonance** | Engineering (power grids) | HYPOTHESIS | Frequency effects (simulation) |
+| **Immune Erosion** | Immunology (T-cell exhaustion) | HYPOTHESIS | 24x hyper-response (simulation) |
 | Critical Slowing | Neuroscience (seizure prediction) | INCONCLUSIVE | Numerical issues |
 
-### Confirmed Hypotheses (High Confidence)
+### Novel Hypotheses (Requiring Empirical Validation)
 
 **MEWS-Econ Composite** (Medicine transfer):
 - *Concept*: Multi-parameter early warning score combining inflation (weight 2.5), food inflation (weight 2.0), currency volatility (weight 1.5), unemployment delta (weight 1.0), government approval delta (weight 2.0)
@@ -196,29 +204,34 @@ Zimbabwe        230B pct     🔴 Mugabe 9yr    Repression > grievance
 ### Hypothesis Stability Summary
 
 ```
-HYPOTHESIS VALIDATION RESULTS
+SIMULATION RESULTS (Mathematical Consistency Only)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Hypothesis         Status      Key Finding
+Hypothesis         Status         Key Finding
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 H1 Critical Slowing  INCONCLUSIVE  Numerical integration issues
-H2 MEWS-Econ         ✅ CONFIRMED   Composite 346 percent better
-H3 Allee Threshold   ✅ CONFIRMED   Sharp collapse at ~30-40 percent
-H4 Cascade Resonance ✅ CONFIRMED   Frequency matters as much as level
-H5 Immune Erosion     ✅ CONFIRMED   24x hyper-response after normalization
+H2 MEWS-Econ         HYPOTHESIS    Composite 346 percent (simulation)
+H3 Allee Threshold   HYPOTHESIS    Sharp collapse at ~30-40 percent (simulation)
+H4 Cascade Resonance HYPOTHESIS    Frequency matters as much as level (simulation)
+H5 Immune Erosion    HYPOTHESIS    24x hyper-response after normalization (simulation)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+NOTE: Simulations prove mathematical consistency, NOT real-world validity.
+Empirical validation required before these can be considered confirmed.
 ```
 
 ---
 
 ## Confidence Assessment
 
-### Supported Claims (High Confidence)
-- Food inflation greater than 15-20 percent precedes increased protest probability (3-12 months)
-- General inflation greater than 30-40 percent precedes civil unrest (6-18 months)
-- Hyperinflation (greater than 50 percent per month) creates near-certain regime crisis
-- Multi-indicator composites outperform single indicators by 346 percent
-- Legitimacy reservoir creates threshold effects (Allee dynamics)
-- Populations adapt to chronic inflation (Immune Erosion)
+### Historical Observations (Based on Selective Cases)
+- Food inflation greater than 15-20 percent preceded protest in Arab Spring, Sri Lanka (selective)
+- General inflation greater than 30-40 percent preceded instability in some historical cases
+- Hyperinflation preceded regime crisis in Weimar, Zimbabwe, Venezuela (but not always regime change)
+- Counter-examples exist: Turkey 80%+, Argentina chronic, Venezuela survived Maduro
+
+### Hypotheses (Not Empirically Validated)
+- Multi-indicator composites may outperform single indicators (simulation suggests 346 percent, needs real data)
+- Legitimacy reservoir may create threshold effects (Allee dynamics - post-hoc explanation, currently unfalsifiable)
+- Populations may adapt to chronic inflation (Immune Erosion - plausible but untested)
 
 ### Rejected Claims (Evidence Contradicts)
 - Inflation alone is sufficient for predicting outcomes (context matters)
@@ -245,6 +258,36 @@ H5 Immune Erosion     ✅ CONFIRMED   24x hyper-response after normalization
 
 ---
 
+## Limitations
+
+### What This Research Does NOT Show
+
+**No Empirical Validation**: The "confirmed" hypotheses were validated only by mathematical oscillator simulations, not by empirical data. Simulations prove internal consistency, not real-world accuracy.
+
+**Post-Hoc Flexibility**: The "legitimacy reservoir" explanation for counter-examples was invented AFTER seeing the data. This is classic post-hoc reasoning - the explanation cannot be falsified because any counter-example can be explained away.
+
+**Endogeneity Unsolved**: Does inflation cause unrest, or does unrest cause inflation? We cannot isolate direction. Capital flight → currency collapse → import inflation creates reverse causality.
+
+**Selection Bias**: Historical cases were selected because they fit the pattern. We did not systematically sample all countries with high inflation to see what proportion experienced unrest.
+
+**Toy Model Limitations**: Brian2 oscillator models are mathematical abstractions. They show that certain dynamics are internally consistent, not that they match reality.
+
+**No Statistical Rigor**: No p-values, confidence intervals, or effect sizes from systematic datasets. All percentages derived from selective historical narrative.
+
+### What Would Be Required for Real Validation
+
+1. **Systematic dataset**: N=100+ country-years with consistent inflation and unrest measures
+2. **Base rate analysis**: How often does unrest occur WITHOUT high inflation?
+3. **Instrumental variables**: Exogenous inflation shocks (commodity prices, natural disasters)
+4. **Out-of-sample testing**: Hypotheses tested on data not used to generate them
+5. **Pre-registration**: Predictions made BEFORE observing outcomes
+
+### Reader Beware
+
+This document is a **hypothesis-generation exercise**, not a validated predictive model. It suggests patterns worth investigating, not conclusions you can rely on.
+
+---
+
 ## Methodology Note
 
 This research was conducted using a 14-agent AI Research Lab stack:
@@ -257,7 +300,7 @@ This research was conducted using a 14-agent AI Research Lab stack:
 - **Ideologist** (CodexResearcher): Cross-domain hypothesis generation
 - **Simulator** (CodexResearcher): Oscillator model validation
 
-Simulations used mathematical oscillator dynamics with Lyapunov exponent and phase coherence metrics. Stability determined by Lyapunov exponent sign and phase coherence thresholds.
+**Important**: Simulations used mathematical oscillator dynamics with Lyapunov exponent and phase coherence metrics. These prove **mathematical consistency** - that the hypothesized dynamics do not contain internal contradictions. They do NOT prove empirical validity - that these dynamics match real-world behavior.
 
 ---
 
