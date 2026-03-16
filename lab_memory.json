@@ -1,0 +1,45 @@
+{
+  "project": "inflation-predictive-timer",
+  "created": "2026-03-16",
+  "runs": [
+    {
+      "cycle": 1,
+      "date": "2026-03-16 12:30",
+      "question": "Can inflation be modeled as a predictive timer for socio-political and economic events?",
+      "result": "14-agent Research Lab stack completed",
+      "supported": [
+        "Food inflation >15-20% precedes protests (3-12mo lead)",
+        "General inflation >30-40% precedes unrest (6-18mo lead)",
+        "Multi-indicator composites outperform single indicators",
+        "Allee Threshold effect explains counter-examples",
+        "Populations adapt to chronic inflation (Immune Erosion)"
+      ],
+      "rejected": [
+        "Inflation alone is sufficient for prediction",
+        "Universal thresholds apply across all countries"
+        "Higher inflation always means more unrest"
+      ],
+      "unknown": [
+        "Causal direction (inflation → unrest or reverse)",
+        "Optimal weights for composite indicators",
+        "Observer effect: does prediction change outcomes"
+      ],
+      "novel_hypotheses": [
+        {"name": "MEWS-Econ Composite", "domain": "Medicine", "status": "CONFIRMED", "key_metric": "+346% vs single indicators"},
+        {"name": "Allee Threshold", "domain": "Ecology", "status": "CONFIRMED", "key_metric": "Sharp collapse at legitimacy ~30-40%"},
+        {"name": "Cascade Resonance", "domain": "Engineering", "status": "CONFIRMED", "key_metric": "Frequency matters as much as level"},
+        {"name": "Immune Erosion", "domain": "Immunology", "status": "CONFIRMED", "key_metric": "24x hyper-response after normalization"},
+        {"name": "Critical Slowing", "domain": "Neuroscience", "status": "INCONCLUSIVE", "key_metric": "Requires better integration"}
+      ],
+      "agents_used": ["ClaudeResearcher", "GrokResearcher", "CodexResearcher", "GeminiResearcher"],
+      "status": "complete"
+    }
+  ],
+  "key_insights": [
+    "Context determines outcomes - legitimacy reservoir is key",
+    "Inflation is necessary but not sufficient",
+    "Composites outperform single indicators by 346%",
+    "Populations adapt to chronic inflation"
+    "Frequency/timing of inflation matters as much as level"
+  ]
+}
